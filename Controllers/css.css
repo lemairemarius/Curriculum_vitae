@@ -68,3 +68,7 @@
     .container-fluid {
         margin-left: 0px !important;
     }
+    
+    .font-italic {
+        font-size: 18px;
+    }
