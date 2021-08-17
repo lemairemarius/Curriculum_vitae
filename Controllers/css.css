@@ -75,6 +75,7 @@
     
     @media screen and (max-width:580px) {
         h1.name {
-            font-size: 40px;
+            font-size: 40px !important;
+            margin-top: 80px !important;
         }
     }
