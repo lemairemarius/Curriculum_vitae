@@ -72,3 +72,9 @@
     .font-italic {
         font-size: 18px;
     }
+    
+    @media screen and (max-width:580px) {
+        h1.name {
+            font-size: 40px;
+        }
+    }
